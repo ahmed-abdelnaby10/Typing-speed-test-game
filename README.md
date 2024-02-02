@@ -1,1 +1,3 @@
-# Typing-speed-test-game
+### Typing-speed-test-game
+
+# Using Javascipt, HTML, CSS
